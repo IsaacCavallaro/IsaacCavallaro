@@ -1,10 +1,10 @@
-![My name is Isaac and I am a developer with a background in music.🎧](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Hi, my name is Isaac.](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        My name is Isaac and I am a developer with a background in music. 🎧
+        Hi, my name is Isaac.
       </h1>
     </summary>
   </ul>
@@ -12,6 +12,8 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🎧 I'm a software developer with a background in music. </h3>**
 
  **<h3 align="left">Skills</h3>**
 

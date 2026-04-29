@@ -9,11 +9,17 @@ Alongside software, I still work professionally in music. Working across both ha
 ## Selected Projects
 
 - [mcp-briefing-agent](https://github.com/IsaacCavallaro/mcp-briefing-agent)  
-  TypeScript briefing agent that uses MCP, model-driven tool calls, and lightweight evals to generate structured briefings from a controlled knowledge source.
+  AI systems project built around MCP, model-driven tool calls, and lightweight evals for structured brief generation.
+- [SynthGain](https://github.com/IsaacCavallaro/SynthGain)  
+  Full-stack Rails marketplace with payments, seller flows, and polished product presentation for a niche music-tech use case.
 - [pivot-for-dancers](https://github.com/IsaacCavallaro/pivot-for-dancers)  
-  Product-focused application work around career transition and resource discovery.
-- [music-pattern-quests](https://github.com/IsaacCavallaro/music-pattern-quests)  
-  An interactive music learning project built around practice, patterns, and visual feedback.
+  Product-focused frontend and brand engineering for a real public-facing platform around dancer career transition.
+- [wall_street_journal_scraper](https://github.com/IsaacCavallaro/wall_street_journal_scraper)  
+  Typed Python CLI project with fixture-based tests for repeatable scraping and data capture workflows.
+- [poker_probability_calculator](https://github.com/IsaacCavallaro/poker_probability_calculator)  
+  Python package and CLI for exact combinatoric odds, Monte Carlo simulation, and deterministic hand evaluation.
+- [gig-booking](https://github.com/IsaacCavallaro/gig-booking)  
+  Lightweight booking workflow that combines GitHub Pages, Google Calendar, and Apps Script to solve a practical scheduling problem.
 
 ![Hi, my name is Isaac.](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
@@ -21,7 +27,8 @@ Alongside software, I still work professionally in music. Working across both ha
 
 - MCP and tool-driven LLM workflows
 - Evaluation and reliability for agent systems
-- Product and internal tooling that improves how teams build and ship
+- Product engineering with strong UX and maintainable delivery
+- Developer tooling and workflow automation that improves how teams build and ship
 
 ## Connect
 

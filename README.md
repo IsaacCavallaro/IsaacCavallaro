@@ -10,14 +10,14 @@ Alongside software, I still work professionally in music. Working across both ha
 
 - [mcp-briefing-agent](https://github.com/IsaacCavallaro/mcp-briefing-agent)  
   AI systems project built around MCP, model-driven tool calls, and lightweight evals for structured brief generation.
-- [SynthGain](https://github.com/IsaacCavallaro/SynthGain)  
-  Full-stack Rails marketplace with payments, seller flows, and polished product presentation for a niche music-tech use case.
 - [pivot-for-dancers](https://github.com/IsaacCavallaro/pivot-for-dancers)  
   Product-focused frontend and brand engineering for a real public-facing platform around dancer career transition.
-- [wall_street_journal_scraper](https://github.com/IsaacCavallaro/wall_street_journal_scraper)  
-  Typed Python CLI project with fixture-based tests for repeatable scraping and data capture workflows.
-- [poker_probability_calculator](https://github.com/IsaacCavallaro/poker_probability_calculator)  
-  Python package and CLI for exact combinatoric odds, Monte Carlo simulation, and deterministic hand evaluation.
+- [pivot-paths](https://github.com/IsaacCavallaro/pivot-paths)  
+  Mobile product work in Expo and React Native for guided career transition, reflection, and progress tracking.
+- [music-pattern-quests](https://github.com/IsaacCavallaro/music-pattern-quests)  
+  Interactive learning project that explores music practice through visual feedback, drills, and playful UX.
+- [SynthGain](https://github.com/IsaacCavallaro/SynthGain)  
+  Full-stack Rails marketplace with payments, seller flows, and polished product presentation for a niche music-tech use case.
 - [gig-booking](https://github.com/IsaacCavallaro/gig-booking)  
   Lightweight booking workflow that combines GitHub Pages, Google Calendar, and Apps Script to solve a practical scheduling problem.
 

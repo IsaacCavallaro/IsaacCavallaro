@@ -6,20 +6,12 @@ Lately I’ve been especially interested in how software engineering is changing
 
 Alongside software, I still work professionally in music. Working across both has shaped how I think about engineering: the tool matters, but outcomes still depend on judgement, pattern recognition, structure, taste, and the person using it.
 
-## Selected Projects
+## What I Build
 
-- [mcp-briefing-agent](https://github.com/IsaacCavallaro/mcp-briefing-agent)  
-  AI systems project built around MCP, model-driven tool calls, and lightweight evals for structured brief generation.
-- [pivot-for-dancers](https://github.com/IsaacCavallaro/pivot-for-dancers)  
-  Product-focused frontend and brand engineering for a real public-facing platform around dancer career transition.
-- [pivot-paths](https://github.com/IsaacCavallaro/pivot-paths)  
-  Mobile product work in Expo and React Native for guided career transition, reflection, and progress tracking.
-- [music-pattern-quests](https://github.com/IsaacCavallaro/music-pattern-quests)  
-  Interactive learning project that explores music practice through visual feedback, drills, and playful UX.
-- [SynthGain](https://github.com/IsaacCavallaro/SynthGain)  
-  Full-stack Rails marketplace with payments, seller flows, and polished product presentation for a niche music-tech use case.
-- [gig-booking](https://github.com/IsaacCavallaro/gig-booking)  
-  Lightweight booking workflow that combines GitHub Pages, Google Calendar, and Apps Script to solve a practical scheduling problem.
+- AI-assisted systems with MCP, tool calling, evaluation, and reliability in mind
+- Product engineering across web and mobile, with attention to UX, clarity, and maintainability
+- Developer tooling and workflow automation that help teams ship faster
+- Practical software for small businesses, musicians, and creatives, shaped by firsthand experience as a professional musician
 
 ![Hi, my name is Isaac.](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 

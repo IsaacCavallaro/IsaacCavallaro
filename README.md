@@ -1,26 +1,42 @@
-# Isaac Cavallaro
+# Hi, I'm Isaac
 
-I build AI systems, developer tooling, and product software across web and mobile.
+I'm a software engineer working across product engineering, developer tooling, workflow automation, and AI-assisted software delivery.
+
+Lately I've been especially interested in how software engineering is changing through AI-assisted and agent-based workflows, not as a replacement for fundamentals, but as a way to help teams move faster, explore more broadly, and spend less time on low-value manual work while still keeping a high bar for quality and maintainability.
+
+Alongside software, I still work professionally in music. Working across both has shaped how I think about engineering: the tool matters, but outcomes still depend on judgement, pattern recognition, structure, taste, and the person using it.
+
+## What I Build
+
+- AI-assisted systems with MCP, tool calling, evaluation, and reliability in mind
+- Product engineering across web and mobile, with attention to UX, clarity, and maintainability
+- Developer tooling and workflow automation that help teams ship faster
+- Practical software for small businesses, musicians, and creatives, shaped by firsthand experience as a professional musician
+
+![Hi, my name is Isaac.](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ## Current Focus
 
 - MCP and tool-driven LLM workflows
-- Evaluation, regression testing, and reliability for agent systems
-- Developer tooling and workflow automation
-- Product engineering with clear UX and maintainable delivery
-
-## Selected Work
-
-- `agent-evals-workbench`: dataset-driven evaluation harness for agent and LLM workflows with repeatable runs, rubric grading, pairwise judging, and regression gates
-- `mcp-briefing-agent`: MCP-based briefing agent with model-driven tool calls and lightweight evals
-- `pivot-paths`: Expo and React Native app for structured learning paths
-- `music-pattern-quests`: interactive music learning app with visual feedback and game-like drills
-- `SynthGain`: Rails marketplace with seller flows and Stripe checkout
-
-## Background
-
-I also work professionally in music. That has shaped how I approach engineering: tools matter, but judgement, structure, timing, and taste still decide whether a system is actually good.
+- Evaluation and reliability for agent systems
+- Product engineering with strong UX and maintainable delivery
+- Developer tooling and workflow automation that improves how teams build and ship
 
 ## Connect
 
-- LinkedIn: [isaaccavallaro](https://www.linkedin.com/in/isaaccavallaro)
+<p align="left"><a href="https://www.linkedin.com/in/isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/isaaccavallaro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+## Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="28" alt="Django" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="28" alt="Playwright" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="28" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="28" alt="Ruby on Rails" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="28" alt="Jest" style="margin-right: 4px"></div>
+
+## GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsaacCavallaro&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=IsaacCavallaro&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacCavallaro&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
